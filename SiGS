@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Corazón para mi novia</title>
+</head>
+<body>
+	<h1>Este corazón es para ti, mi amor</h1>
+	<div style="width: 100px; height: 100px; background-color: #FFC0CB; border-radius: 50% 50% 0 0; transform: rotate(45deg); margin: 50px auto;"></div>
+</body>
+</html>
